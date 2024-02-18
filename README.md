@@ -1,14 +1,10 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 🌍👋 </h1></summary>
-</div>
-
-### I'm Bruno Souza!
+### Hello, I'm Bruno Souza 👋
 <div 
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-souza-014176204/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunocarlos.p.souza@gmail.com)
+[![Instagram](https://img.shields.io/badge/@brunopsouza_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Souza-333ccc?style=flat-square&labelColor=3333cc&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-souza-014176204/)](https://www.linkedin.com/in/bruno-souza-014176204/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
+
 </div>
 
 <div 
