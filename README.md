@@ -1,9 +1,10 @@
-### Hello, I'm Bruno Souza 👋
+# Bruno Souza
+
 <div 
-  
-[![Instagram](https://img.shields.io/badge/@brunopsouza_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
+ 
+[![Instagram](https://img.shields.io/badge/@brunopsouza_-333ccc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Souza-333ccc?style=flat-square&labelColor=3333cc&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-souza-014176204/)](https://www.linkedin.com/in/bruno-souza-014176204/) 
-[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-333ccc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
 
 </div>
 
