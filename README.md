@@ -2,9 +2,9 @@
 
 <div 
  
-[![Instagram](https://img.shields.io/badge/@brunopsouza_-00875f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Souza-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-souza-014176204/)](https://www.linkedin.com/in/bruno-souza-014176204/) 
-[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
+[![Instagram](https://img.shields.io/badge/@brunopsouza_-6A5ACD?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Souza-6A5ACD?style=flat-square&labelColor=6A5ACDf&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-souza-014176204/)](https://www.linkedin.com/in/bruno-souza-014176204/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
 
 </div>
 
