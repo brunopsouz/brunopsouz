@@ -1,18 +1,20 @@
 # Bruno Souza
 
 <div 
- 
-[![Instagram](https://img.shields.io/badge/@brunopsouza_-6A5ACD?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunopsouza_/)
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Souza-6A5ACD?style=flat-square&labelColor=6A5ACDf&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-souza-014176204/)](https://www.linkedin.com/in/bruno-souza-014176204/) 
-[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.p.souza@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunopsouza_/)](https://www.instagram.com/brunopsouza_/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/brunocpsouza/)](https://www.linkedin.com/in/brunocpsouza/)
+[![Gmail Badge](https://img.shields.io/badge/-brunocarlos.souza@outlook.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
 
 </div>
 
-<div 
-  
-![brunopsouz GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopsouz&show_icons=true&layout=compact&theme=gotham)
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunopsouz&show_icons=true&count_private=true&theme=algolia" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopsouz&layout=compact&theme=algolia" />
+</p>
 
-</div>
 
  <div style="flex-basis: 48%;">
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
