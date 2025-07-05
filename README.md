@@ -12,7 +12,7 @@ Tenho paixão por resolver problemas reais com tecnologia moderna. Desenvolvendo
 
 ## ⚡ Tecnologias
 
- Backend
+ BackEnd
 - .NET / .NET Framework
 - ASP.NET Core – Web APIs REST
 - Dapper – Micro ORM performático
@@ -23,7 +23,6 @@ Arquitetura & Qualidade
 - Domain-Driven Design (DDD)
 - Clean Architecture
 - Validações com FluentValidation
-- SonarCloud & SonarQube – Qualidade e cobertura de código
 - Testes Unitários e de Integração
 
 Segurança & Autenticação
