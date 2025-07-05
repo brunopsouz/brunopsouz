@@ -1,10 +1,39 @@
-# Bruno Souza
+ ## Bruno Souza | Desenvolvedor .NET
 
 <div 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunopsouza_/)](https://www.instagram.com/brunopsouza_/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/brunocpsouza/)](https://www.linkedin.com/in/brunocpsouza/)
 [![Gmail Badge](https://img.shields.io/badge/-brunocarlos.souza@outlook.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
+
+> _“From code and ideas to results.”_
+
+Tenho paixão por resolver problemas reais com tecnologia moderna. Desenvolvendo em .NET entrego soluções performáticas e seguras, com desenvolvimento server-side, consumo e criação de endpoints com RESTFul APIs, APIs convencionais, regras de negócio e testes unitários/integração com xUnit.
+
+## ⚡ Tecnologias
+
+ Backend
+- .NET 6 / .NET 8
+- ASP.NET Core – Web APIs REST
+- Dapper – Micro ORM performático
+- Entity Framework Core – ORM Code First
+- Injeção de Dependência, Clean Code, SOLID
+
+Arquitetura & Qualidade
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Validações com FluentValidation
+- SonarCloud & SonarQube – Qualidade e cobertura de código
+- Testes Unitários e de Integração
+
+Segurança & Autenticação
+- JWT + Refresh Token
+- Login com Google (OAuth 2.0)
+
+FrontEnd
+- Angular
+- HTML5
+- CSS3
 
 </div>
 
