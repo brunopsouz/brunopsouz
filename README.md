@@ -13,7 +13,7 @@ Tenho paixão por resolver problemas reais com tecnologia moderna. Desenvolvendo
 ## ⚡ Tecnologias
 
  Backend
-- .NET 6 / .NET 8
+- .NET / .NET Framework
 - ASP.NET Core – Web APIs REST
 - Dapper – Micro ORM performático
 - Entity Framework Core – ORM Code First
