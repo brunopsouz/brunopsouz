@@ -40,7 +40,7 @@ FrontEnd
 
 <p align="center">
   <img src="https://github-readme-stats-lilac-eight-84.vercel.app/api?username=brunopsouz&show_icons=true&count_private=true&theme=algolia" width="420" />
-  <img src="https://github-readme-stats-lilac-eight-84.vercel.app/api/top-langs/?username=brunopsouz&layout=compact&theme=algolia" width="322"/>
+  <img src="https://github-readme-stats-lilac-eight-84.vercel.app/api/top-langs/?username=brunopsouz&layout=compact&theme=algolia" width="320"/>
 </p>
 
 
