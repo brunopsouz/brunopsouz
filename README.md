@@ -8,7 +8,7 @@
 
 > _“From code and ideas to results.”_
 
-Tenho paixão por resolver problemas reais com tecnologia moderna. Desenvolvendo em .NET entrego soluções performáticas e seguras, com desenvolvimento server-side, consumo e criação de endpoints com RESTFul APIs e APIs convencionais, regras de negócio e testes unitários/integração com xUnit.
+Desenvolvendo em .NET entrego soluções performáticas e seguras, com desenvolvimento server-side, consumo e criação de endpoints com RESTFul APIs e APIs convencionais, regras de negócio e testes unitários/integração com xUnit.
 
 ## ⚡ Tecnologias
 
