@@ -3,7 +3,7 @@
 <div 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunopsouza_/)](https://www.instagram.com/brunopsouza_/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bruno-carlos-souza/)](https://www.linkedin.com/in/brunocpsouza/)
+[![Linkedin Badge](https://img.shields.io/badge/-‹/›&#32;LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bruno-carlos-souza/)](https://www.linkedin.com/in/brunocpsouza/)
 [![Gmail Badge](https://img.shields.io/badge/-brunocarlos.souza@outlook.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunocarlos.p.souza@gmail.com)](mailto:brunocarlos.p.souza@gmail.com)
 
 > _“From code and ideas to results.”_
