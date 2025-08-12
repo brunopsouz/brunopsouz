@@ -8,31 +8,18 @@
 
 > _“From code and ideas to results.”_
 
-Desenvolvendo em .NET entrego soluções performáticas e seguras, com desenvolvimento server-side, consumo e criação de endpoints com RESTFul APIs e APIs convencionais, regras de negócio e testes unitários/integração com xUnit.
+I'm Bruno Souza — Computer Science graduate who loves technology and innovation. I code mostly in .NET and Transact-SQL always bringing a modern software architecture. Curious by nature, I like to explore new tools, frameworks, and best practices to create efficient and scalable solutions. I’m also **Six Sigma Green Belt certified** after leading several continuous improvement projects using Lean Six Sigma methodologies, always seeking efficiency and quality in everything I build.
 
-## ⚡ Tecnologias
-
- BackEnd
-- .NET / .NET Framework
-- ASP.NET Core – Web APIs REST
-- Dapper – Micro ORM performático
-- Entity Framework Core – ORM Code First
-- Injeção de Dependência, Clean Code, SOLID
-
-Arquitetura & Qualidade
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Validações com FluentValidation
-- Testes Unitários e de Integração
-
-Segurança & Autenticação
-- JWT + Refresh Token
-- Login com Google (OAuth 2.0)
-
-FrontEnd
-- Angular
-- HTML5
-- CSS3
+## ⚡ Technologies
+- Backend Development using **C#**, **.NET**, **EntityFramework** and **Dapper**.
+- Integrated **RESTful APIs** using **.NET Framework** and **RestSharp**.
+- Implemented in my codes unit/integration tests with **XUnit**.
+- Developed solutions using **Clean Architecture** and **Domain-Driven Design** principles.
+- Implemented authentication with **JWT** + **Refresh Token**.  
+- Worked with **Azure Services** as **Service Bus** and **Blob Storage**.
+- I developed projects in **transact-SQL** creating **stored procedures, views and functions**.  
+- Strong experience in database optimization with **SQL Server** to enhance performance.
+- Worked in some web applications with **Angular**. 
 
 </div>
 
