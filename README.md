@@ -1,4 +1,4 @@
- ## Bruno Souza | Desenvolvedor .NET
+ ## Bruno Souza | Software Developer
 
 <div 
 
