@@ -10,7 +10,7 @@
 
 I'm Bruno Souza — Computer Science graduate who loves technology and innovation. I code mostly in .NET and Transact-SQL always bringing a modern software architecture. Curious by nature, I like to explore new tools, frameworks, and best practices to create efficient and scalable solutions. I’m also **Six Sigma Green Belt certified** after leading several continuous improvement projects using Lean Six Sigma methodologies, always seeking efficiency and quality in everything I build.
 
-## ⚡ Technologies
+## Technologies
 - Backend Development using **.NET**, **EntityFramework**, **Dapper** and **ADO.NET**.
 - Integrated **RESTful APIs** using **.NET Framework**.
 - Implemented in my codes unit/integration tests with **XUnit**.
