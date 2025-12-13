@@ -14,7 +14,7 @@ I'm Bruno Souza — Computer Science graduate who loves technology and innovatio
 - Backend Development using **.NET**, **EntityFramework**, **Dapper** and **ADO.NET**.
 - Integrated **RESTful APIs** using **.NET Framework**.
 - Implemented in my codes unit/integration tests with **XUnit**.
-- Developed solutions using **Clean Architecture** and **Domain-Driven Design** principles.
+- Developed solutions using **Clean Architecture**,**Domain-Driven Design** principles and Microservices.
 - Implemented authentication with **JWT** + **Refresh Token**.  
 - Worked with **Azure Services** as **Service Bus** and **Blob Storage**.
 - Worked with messaging services such as **RabbitMQ** and **Kafka**.
